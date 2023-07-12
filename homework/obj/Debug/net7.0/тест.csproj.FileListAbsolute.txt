@@ -1,0 +1,15 @@
+/Users/trusovdmitrij/Desktop/тест/bin/Debug/net7.0/тест
+/Users/trusovdmitrij/Desktop/тест/bin/Debug/net7.0/тест.deps.json
+/Users/trusovdmitrij/Desktop/тест/bin/Debug/net7.0/тест.runtimeconfig.json
+/Users/trusovdmitrij/Desktop/тест/bin/Debug/net7.0/тест.dll
+/Users/trusovdmitrij/Desktop/тест/bin/Debug/net7.0/тест.pdb
+/Users/trusovdmitrij/Desktop/тест/obj/Debug/net7.0/тест.csproj.AssemblyReference.cache
+/Users/trusovdmitrij/Desktop/тест/obj/Debug/net7.0/тест.GeneratedMSBuildEditorConfig.editorconfig
+/Users/trusovdmitrij/Desktop/тест/obj/Debug/net7.0/тест.AssemblyInfoInputs.cache
+/Users/trusovdmitrij/Desktop/тест/obj/Debug/net7.0/тест.AssemblyInfo.cs
+/Users/trusovdmitrij/Desktop/тест/obj/Debug/net7.0/тест.csproj.CoreCompileInputs.cache
+/Users/trusovdmitrij/Desktop/тест/obj/Debug/net7.0/тест.dll
+/Users/trusovdmitrij/Desktop/тест/obj/Debug/net7.0/refint/тест.dll
+/Users/trusovdmitrij/Desktop/тест/obj/Debug/net7.0/тест.pdb
+/Users/trusovdmitrij/Desktop/тест/obj/Debug/net7.0/тест.genruntimeconfig.cache
+/Users/trusovdmitrij/Desktop/тест/obj/Debug/net7.0/ref/тест.dll
